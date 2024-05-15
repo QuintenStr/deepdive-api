@@ -1,0 +1,1 @@
+We are pleased to inform you that your application has been successfully registered. Please confirm your email adress by clicking the next link: {EmailConfirmationEndpoint}

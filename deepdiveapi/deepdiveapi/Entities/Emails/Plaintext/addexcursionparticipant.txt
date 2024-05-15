@@ -1,0 +1,3 @@
+Excursion participation confirmation
+You have succesfully joined the excursion on DeepDive as participant.<br>
+In email attachements you can find a pdf with all the required info.

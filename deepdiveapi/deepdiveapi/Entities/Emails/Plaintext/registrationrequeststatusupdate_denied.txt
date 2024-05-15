@@ -1,0 +1,1 @@
+Dear {FirstName}, We regret to inform you that your registration request has been denied. Unfortunately, your application does not meet our current criteria. If you have any questions or concerns, feel free to contact our support team. Thank you for your interest in our platform.
